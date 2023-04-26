@@ -11,4 +11,4 @@ As I mentioned above first I create a prototype for the project. In order to do 
 
 
 # Debugging
-Make this about the date javascript function. 
+I used the developer tools in the browser to confirm that my css styling displayed the correct result.
