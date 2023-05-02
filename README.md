@@ -7,7 +7,7 @@ To begin with I have to do a setup and connect my github account and my local co
 
 
 # Building
-As I mentioned above first I create a prototype for the project. In order to do this I open figma and design the prototype that I alreadt visualised in my head. Once I have the figma prototype I will begin coding. In VS Code I create an index.html for the conetnt of the page and an index.css to style it. I will also need an index.js to store my javascript code for the function this project needs.
+As I mentioned above first I create a prototype for the project. In order to do this I open figma and design the prototype that I already visualised in my head. Once I have the figma prototype I will begin coding. In VS Code I create an index.html for the conetnt of the page and an index.css to style it. I will also need an index.js to store my javascript code for the function this project needs.
 
 
 # Debugging
