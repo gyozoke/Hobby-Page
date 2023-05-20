@@ -22,14 +22,14 @@ header {
 }
 
 
-#today {
-  text-align: right;
-  padding: 10px;
+#date {
+  text-align: center;
+  padding: 14px;
   margin: 24px;
   color: #f7efef;
   background-color: #282828;
   border-radius: 10px;
-  font-size: 18px;
+  font-size: 14px;
   font-family: 'Roboto Slab';
 }
 
